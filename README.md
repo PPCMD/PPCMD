@@ -2,8 +2,8 @@
 - 👀 I’m an expert in software and game development
 - 🌱 I’m currently learning C++ and Unreal Engine
 - 📫 How to reach me ...
-Website: https://nilapatri.com
-Twitter: https://twitter.com/PPCMD1
+* Website: https://nilapatri.com
+* Twitter: https://twitter.com/PPCMD1
 
 <!---
 PPCMD/PPCMD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
